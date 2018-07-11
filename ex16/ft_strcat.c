@@ -11,7 +11,7 @@ char	*ft_strcat(char *dest, char *src)
 	{
 		dest[i] = src[n];
 		i++;
-		n++
+		n++;
 	}
 	dest[i] = '\0';
 	return(dest);
